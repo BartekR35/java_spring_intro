@@ -1,1 +1,1 @@
-# java_spring_intro
+Basic project on Spring.
